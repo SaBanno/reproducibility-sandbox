@@ -1,8 +1,8 @@
 # README
 ---
-title: "Acute Myeloid Leukemia Heatmap"
-author: "CCDL for ALSF - Adapted for this repository by Candace Savonen"
-date: "October 2021"
+Title: "Acute Myeloid Leukemia Heatmap"
+Author: "CCDL for ALSF - Adapted for this repository by Candace Savonen"
+Date: "October 2021"
 output:
   html_notebook:
     toc: true
